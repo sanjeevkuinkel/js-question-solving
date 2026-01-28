@@ -14,3 +14,8 @@ for (let num of arr) {
 }
 
 console.log(secondLargest); // 15
+
+
+console.log(typeof null);
+
+console.log(typeof null==="object");//true

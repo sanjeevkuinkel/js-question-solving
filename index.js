@@ -10,6 +10,7 @@
 !What will this output and why?
 */
 
+console.log(typeof null);
 
 
 Intermediate JavaScript
