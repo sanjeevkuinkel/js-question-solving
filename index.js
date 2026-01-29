@@ -19,7 +19,6 @@ Remove duplicates from an array without using Set.
 
 Write a function that counts character frequency in a string.
 
-What is hoisting? Explain with code.
 
 
 🔵 Advanced JavaScript
